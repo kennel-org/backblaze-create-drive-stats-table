@@ -1,0 +1,10 @@
+# config.sample.yml
+# This is a sample configuration file.
+# Copy this file to config.yml and change the values to suit your environment.
+
+db_connection:
+  username: "your_username"
+  password: "your_password"
+  host: "your_host_address"   # e.g., "192.168.11.72" or "localhost"
+  port: 3306
+  dbname: "your_dbname"
