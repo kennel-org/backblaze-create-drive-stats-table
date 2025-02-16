@@ -25,6 +25,7 @@ Install the required packages in R with:
 
 ```r
 install.packages(c("RMariaDB", "tictoc", "stringr", "purrr", "dplyr", "lubridate"))
+```
 
 ## License
 
