@@ -1,5 +1,5 @@
 # Import Backblaze HDD data to MariaDB
-# 2018-06-11 kennel.org
+# 2018-06-11 Initial version creation
 # 2024-01-01 add index and partitioning
 # 2025-02-16 Refined the script for 2024Q4 data
 
